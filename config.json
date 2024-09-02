@@ -1,34 +1,34 @@
 {
-  "\u79d1\u5927": [],
   "\u6a59\u6c41": [],
+  "Forbidden-city": [],
   "\u666f\u5c71": [],
   "\u9759\u7269": [],
-  "\u732b\u732b": [
+  "Kitty": [
     {
       "width": 3928,
       "height": 2945,
-      "path": "./photos/\u732b\u732b/DSC_0326.jpg",
-      "compressed_path": "./photos/\u732b\u732b/DSC_0326.min.jpg",
+      "path": "./photos/Kitty/DSC_0326.jpg",
+      "compressed_path": "./photos/Kitty/DSC_0326.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/\u732b\u732b/DSC_0326.placeholder.jpg"
+      "placeholder_path": "./photos/Kitty/DSC_0326.placeholder.jpg"
     },
     {
       "width": 3928,
       "height": 2945,
-      "path": "./photos/\u732b\u732b/DSC_0323.jpg",
-      "compressed_path": "./photos/\u732b\u732b/DSC_0323.min.jpg",
+      "path": "./photos/Kitty/DSC_0323.jpg",
+      "compressed_path": "./photos/Kitty/DSC_0323.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/\u732b\u732b/DSC_0323.placeholder.jpg"
+      "placeholder_path": "./photos/Kitty/DSC_0323.placeholder.jpg"
     },
     {
       "width": 2607,
       "height": 3474,
-      "path": "./photos/\u732b\u732b/DSC_0330.jpg",
-      "compressed_path": "./photos/\u732b\u732b/DSC_0330.min.jpg",
+      "path": "./photos/Kitty/DSC_0330.jpg",
+      "compressed_path": "./photos/Kitty/DSC_0330.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/\u732b\u732b/DSC_0330.placeholder.jpg"
+      "placeholder_path": "./photos/Kitty/DSC_0330.placeholder.jpg"
     }
   ],
-  "\u6545\u5bab": [],
+  "USTB": [],
   "\u5965\u68ee-\u5411\u65e5\u8475": []
 }
